@@ -15,7 +15,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Varadchavan1129&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
