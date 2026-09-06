@@ -1,168 +1,151 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Varadchavan1129/Varadchavan1129/main/varad-avatar.gif" width="220" alt="Varad Chavan">
+<img src="https://raw.githubusercontent.com/Varadchavan1129/Varadchavan1129/main/varad-avatar.gif" width="200" alt="Varad Chavan">
 
-<br><br>
+<h1>Hi, I'm Varad Chavan 👋</h1>
 
-Hi, I'm Varad Chavan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;Building+things+for+the+web" alt="Typing SVG">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;Building+things+for+the+web" alt="Typing SVG">
+<br>
 
-<br><br>
+<a href="https://github.com/Varadchavan1129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://leetcode.com/u/varadchavan_062/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/varad-chavan-5a54a7349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:varadchavan657@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<a href="https://github.com/Varadchavan1129">
-  <img src="https://cdn.simpleicons.org/github/white" width="42" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/varadchavan_062/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/varad-chavan-5a54a7349/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:varadchavan657@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email">
-</a>
+<br>
 
-<br><br>
-
-<a href="https://github.com/Varadchavan1129">GitHub</a>
- • 
-<a href="https://leetcode.com/u/varadchavan_062/">LeetCode</a>
- • 
-<a href="https://www.linkedin.com/in/varad-chavan-5a54a7349/">LinkedIn</a>
- • 
-<a href="mailto:varadchavan657@gmail.com">Email</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Varadchavan1129&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
-👨‍💻 About Me
+<br>
 
-🎓 B.Tech Information Technology student at Sanjivani College of Engineering
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-1.gif" width="100%">
 
-💻 Full-stack developer focused on building practical, scalable web applications.
+## 👨‍💻 About Me
 
-🤖 Exploring AI, RAG systems, APIs and cloud technologies.
+- 🎓 B.Tech Information Technology student at Sanjivani College of Engineering
+- 💻 Full-stack developer focused on building practical, scalable web applications
+- 🤖 Exploring AI, RAG systems, APIs and cloud technologies
+- 🧩 Solving programming problems and continuously improving my DSA skills
+- 🌱 Always learning, building and experimenting with new technologies
 
-🧩 Solving programming problems and continuously improving my DSA skills.
+<br>
 
-🌱 Always learning, building and experimenting with new technologies.
-
-🛠️ Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages">
-</p>
-
-Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend">
-</p>
-
-Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend">
-</p>
-
-Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases">
-</p>
-
-Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea,npm" alt="Cloud and Tools">
-</p>
-
-🚀 Featured Projects
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-🔬 ResearchAssist
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"></p>
 
-AI-powered research assistant for intelligent document understanding and retrieval.
-
-Focus: RAG • Multilingual RAG • Agentic RAG • Graph RAG
-
-</td>
-<td width="50%" valign="top">
-
-🌐 DataSetu
-
-A data-driven platform for analyzing information and supporting practical decision-making.
-
-Focus: Python • GeoData • ML • Maps/API
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend"></p>
 
 </td>
-</tr>
+<td valign="top" width="50%">
 
-<tr>
-<td width="50%" valign="top">
+**Backend & APIs**
+<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend"></p>
 
-🤖 YUKTI AI
-
-Full-stack coding assessment platform for creating and managing coding assessments.
-
-Focus: React • Spring Boot • REST APIs • SQL
-
-</td>
-<td width="50%" valign="top">
-
-🛒 E-Commerce Platform
-
-Full-stack e-commerce application with product, user, order and payment workflows.
-
-Focus: React • Backend • Database • APIs
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"></p>
 
 </td>
 </tr>
 </table>
 
-🏆 Achievements
+**Cloud & Tools**
+<p><img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea,npm" alt="Cloud and Tools"></p>
 
-🟢 CodeChef: 1000+ rating
+<br>
 
-💡 CodeChef: 1200+ problems solved
+## 🚀 Featured Projects
 
-⭐ HackerRank: C — 4 Stars
+<table>
+<tr>
+<td width="50%" valign="top">
 
-⭐ HackerRank: Python — 5 Stars
+### 🔬 ResearchAssist
+AI-powered research assistant for intelligent document understanding and retrieval.
 
-📜 Certifications
+`RAG` `Multilingual RAG` `Agentic RAG` `Graph RAG`
 
-NPTEL Certification — Programming / Computer Science coursework
+</td>
+<td width="50%" valign="top">
 
-NPTEL Certification — Computer Science / Technology coursework
+### 🌐 DataSetu
+A data-driven platform for analyzing information and supporting practical decision-making.
 
-📌 Current Focus
+`Python` `GeoData` `ML` `Maps/API`
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-Stack Development → Backend Architecture → DSA → AI / RAG → AWS & Cloud
+### 🤖 YUKTI AI
+Full-stack coding assessment platform for creating and managing coding assessments.
 
-</p>
+`React` `Spring Boot` `REST APIs` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+Full-stack e-commerce application with product, user, order and payment workflows.
+
+`React` `Backend` `Database` `APIs`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 Achievements
+
+| Category | Highlight |
+|---|---|
+| 🟢 CodeChef | 1000+ rating |
+| 💡 CodeChef | 1200+ problems solved |
+| ⭐ HackerRank | C — 4 Stars |
+| ⭐ HackerRank | Python — 5 Stars |
+| 👥 GeeksforGeeks | **Chapter Lead** of the GFG student chapter at college |
+| 🌍 GeeksforGeeks | **Campus Ambassador / Campus Mantri** participant |
+
+<br>
+
+## 📜 Certifications
+
+- **NPTEL** — Object Oriented Programming in Java
+- **NPTEL** — The Joy of Computing using Python
+- **NPTEL** — Problem Solving Through Programming in C
+
+<br>
+
+## 📌 Current Focus
 
 <div align="center">
 
-<a href="https://github.com/Varadchavan1129">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-<a href="https://leetcode.com/u/varadchavan_062/">
-  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
-</a>
+**Full-Stack Development → Backend Architecture → DSA → AI / RAG → AWS & Cloud**
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-1.gif" width="100%">
+
+<div align="center">
+
+<a href="https://github.com/Varadchavan1129"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+<a href="https://leetcode.com/u/varadchavan_062/"><img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"></a>
 
 <br><br>
 
-<p>✨ <b>Build. Learn. Improve. Repeat.</b> ✨</p>
+<sub><b>✨ Build. Learn. Improve. Repeat. ✨</b></sub>
 
 </div>
