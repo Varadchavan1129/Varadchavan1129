@@ -1,25 +1,40 @@
 <div align="center">
 
-<img src="./assets/varad-avatar.gif" width="240" alt="Varad Chavan">
+<img src="https://raw.githubusercontent.com/Varadchavan1129/Varadchavan1129/main/varad-avatar.gif" width="220" alt="Varad Chavan">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Varad+Chavan;Software+Developer;Building+things+for+the+web" alt="Typing SVG">
+Hi, I'm Varad Chavan 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;Building+things+for+the+web" alt="Typing SVG">
 
 <br><br>
 
 <a href="https://github.com/Varadchavan1129">
-<img src="https://img.shields.io/badge/GitHub-Varad%20Chavan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/github/white" width="42" alt="GitHub">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/varadchavan_062/">
-<img src="https://img.shields.io/badge/LeetCode-Varad%20Chavan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/varad-chavan-5a54a7349/">
-<img src="https://img.shields.io/badge/LinkedIn-Varad%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn">
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:varadchavan657@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email">
 </a>
+
+<br><br>
+
+<a href="https://github.com/Varadchavan1129">GitHub</a>
+ • 
+<a href="https://leetcode.com/u/varadchavan_062/">LeetCode</a>
+ • 
+<a href="https://www.linkedin.com/in/varad-chavan-5a54a7349/">LinkedIn</a>
+ • 
+<a href="mailto:varadchavan657@gmail.com">Email</a>
 
 </div>
 
@@ -27,15 +42,13 @@
 
 🎓 B.Tech Information Technology student at Sanjivani College of Engineering
 
-💻 Full-stack developer focused on practical and scalable web applications
+💻 Full-stack developer focused on building practical, scalable web applications.
 
-🚀 Working with Java, Python, JavaScript, React.js, Spring Boot, Node.js and SQL
+🤖 Exploring AI, RAG systems, APIs and cloud technologies.
 
-🤖 Exploring AI, RAG systems, APIs and cloud technologies
+🧩 Solving programming problems and continuously improving my DSA skills.
 
-🧩 Solving programming problems and improving my DSA skills
-
-🌱 Always learning, building and experimenting with new technologies
+🌱 Always learning, building and experimenting with new technologies.
 
 🛠️ Tech Stack
 
@@ -133,28 +146,22 @@ NPTEL Certification — Computer Science / Technology coursework
 
 📌 Current Focus
 
-Full-Stack Development
-        ↓
-Backend Architecture & APIs
-        ↓
-Data Structures & Algorithms
-        ↓
-AI / RAG / Agentic Systems
-        ↓
-AWS & Cloud Engineering
+<p align="center">
+
+Full-Stack Development → Backend Architecture → DSA → AI / RAG → AWS & Cloud
+
+</p>
 
 <div align="center">
 
 <a href="https://github.com/Varadchavan1129">
-<img src="https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 <a href="https://leetcode.com/u/varadchavan_062/">
-<img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Visit LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
 </a>
 
 <br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-1.gif" width="100%" alt="Divider">
 
 <p>✨ <b>Build. Learn. Improve. Repeat.</b> ✨</p>
 
